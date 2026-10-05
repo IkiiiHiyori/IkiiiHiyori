@@ -41,7 +41,7 @@ An advanced public API reference documentation for random dog images and breed d
 ### 🤝 Connect with Me
 
 - **LinkedIn:** [www.linkedin.com/in/olga-dimitrova-7a5811394]
-- **Telegram:** @[me](https://t.me/milk0ntgh)
+- **Telegram:** [me](https://t.me/milk0ntgh)
 - **Location:** Voronezh, Russia (Open to International Remote Roles)
 
 *Available for hire and open to remote contracts, freelance tasks, or junior full-time positions.*
