@@ -22,7 +22,7 @@ A production-ready documentation site for a fictional parcel delivery service.
 - **What I did:** Designed the information architecture, wrote user guides, structured billing policies, and built an interactive REST API reference.
 - **Tech Stack:** Markdown, OpenAPI, MkDocs (Material theme), GitHub Pages, GitHub Actions.
 
-#### 2. 🤖 [Telegram Bot & HelpDesk Integration Spec](https://github.com](https://github.com/IkiiiHiyori/telegram-helpdesk-spec)
+#### 2. 🤖 [Telegram Bot & HelpDesk Integration Spec](https://github.com/IkiiiHiyori/telegram-helpdesk-spec)]
 A comprehensive Technical Requirements Document (TRD) detailing a middleware layer integration.
 - **What I did:** Documented system use cases (happy paths, rate limiting, and 5xx error handling), mapped REST API request/response payloads, and embedded live Mermaid sequence diagrams.
 - **Key Concepts:** Webhooks, Dead-Letter Queues (DLQ), Rate Limiting, UUID v4 validation.
