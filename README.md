@@ -27,7 +27,7 @@ A comprehensive Technical Requirements Document (TRD) detailing a middleware lay
 - **What I did:** Documented system use cases (happy paths, rate limiting, and 5xx error handling), mapped REST API request/response payloads, and embedded live Mermaid sequence diagrams.
 - **Key Concepts:** Webhooks, Dead-Letter Queues (DLQ), Rate Limiting, UUID v4 validation.
 
-#### 3. 🐕 [Dog API Documentation (Revised)](https://github.com)
+#### 3. 🐕 [Dog API Documentation (Revised)](https://github.com/IkiiiHiyori/dog-api-docs)
 An advanced public API reference documentation for random dog images and breed data processing.
 - **What I did:** Restructured endpoint references, expanded error handling tables, drafted client-side pagination strategies, and added multi-language code examples (JavaScript, Python, cURL).
 - **Key Concepts:** REST API, Client-Side Pagination, Caching Strategies, Exponential Backoff Retry Logic.
